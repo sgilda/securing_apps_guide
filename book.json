@@ -12,8 +12,8 @@
     "title": "Securing Applications and Services Guide",
     "project": {
       "name": "Keycloak",
-      "version": "2.2.0.Final",
-      "versionMvn": "2.2.0.Final"
+      "version": "2.2.1.Final",
+      "versionMvn": "2.2.1.Final"
     },
     "community": true,
     "product": false,
